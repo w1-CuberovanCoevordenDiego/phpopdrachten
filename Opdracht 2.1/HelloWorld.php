@@ -5,12 +5,15 @@
         <title><?php print "pagina 1"; ?></title>
     </head>
     <body>
-        <h1>
+        <p>
 
             <?php
-                echo "Hallo wereld";
+                echo "Hello world";
             ?>
 
-        </h1>
+
+
+        </p><br>
+        <p><a href="../index.php">Terug</a></p>
     </body>
 </html>
