@@ -27,7 +27,7 @@
                         <a href="Opdracht%202.1/HelloWorld.php">Opdracht 2.1</a>
                     </li>
                     <li>
-                        <a href="Hoofdstuk2/opdracht2.2.php">Opdracht 2.2</a>
+                        <a href="Opdracht%202.2/Opdracht2.2.php">Opdracht 2.2</a>
                     </li>
                 </ul>
             </li>
